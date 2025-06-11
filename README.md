@@ -1,15 +1,15 @@
-****INTRODUCTION****
+#INTRODUCTION
 
 In today's competitive job market, effective interview preparation is essential for candidates to stand out. However, many job seekers struggle to access relevant and personalized resources that match their specific career goals. Interview Genie is an AI-driven platform designed to bridge this gap by providing a tailored interview preparation experience.
 Leveraging state-of-the-art Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG) models, Interview Genie dynamically generates interview questions based on user-provided job descriptions and roles. This ensures that candidates practice with highly relevant, role-specific questions, enhancing their ability to respond confidently and effectively during actual interviews
 Interview Genie offers not just question generation but also contextual feedback, enabling users to refine their answers and gain insights into what employers are looking for. By streamlining the preparation process, the platform empowers job seekers to approach interviews with greater confidence, positioning them as strong contenders in their chosen fields.
 Whether you're a fresh graduate entering the workforce or a seasoned professional seeking a career change, Interview Genie adapts to your needs, transforming how you prepare for and succeed in interviews.
 
-**ABSTRACT**
+#ABSTRACT
 
 Interview Genie is an AI-driven platform that enhances interview preparation by generating personalized interview questions based on specific job descriptions. Using advanced Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG) models, the system tailors questions to align with user-defined roles, ensuring effective practice. This functionality equips job seekers with relevant interview insights, allowing them to build confidence and improve their readiness for real interviews. By optimizing the preparation process, Interview Genie positions candidates as strong contenders in the competitive job market through targeted practice and contextual feedback.
 
-**RUN CODE**
+#RUN CODE
 # Activate your virtual environment if not already activated
 source myenv/bin/activate
 
